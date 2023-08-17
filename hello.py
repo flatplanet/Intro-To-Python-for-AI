@@ -2,7 +2,9 @@ import os
 # Clear the screen
 os.system("clear")
 
+# Variables
+first_name = "John"
+print(first_name)
 
-
-print("Hello World!!!")
-
+first_name = "Tina"
+print(first_name)
